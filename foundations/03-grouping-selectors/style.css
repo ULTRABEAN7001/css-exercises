@@ -1,0 +1,14 @@
+.champ{
+    background-color: black;
+    color: white;
+}
+
+.buster{
+    background-color: yellow;
+}
+
+.champ,
+.buster{
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}

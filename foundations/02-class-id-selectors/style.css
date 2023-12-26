@@ -1,0 +1,18 @@
+.odd{
+    background-color: pink;
+    font-family: Verdana, sans-serif, "DejaVu Sans";
+}
+
+.very{
+    font-size: 24px;
+}
+#diff{
+    color: blue;
+    font-size: 36px;
+}
+
+#erent{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
